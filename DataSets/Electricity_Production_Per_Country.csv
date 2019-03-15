@@ -73,7 +73,6 @@ Burkina Faso,Electricity - total hydro production,2014,"Kilowatt-hours, million"
 Burkina Faso,Electricity - total thermal production,2014,"Kilowatt-hours, million",779.498,1,thermal_electricity
 Burundi,Electricity - total hydro production,2014,"Kilowatt-hours, million",140.328,,hydro
 Burundi,Electricity - total thermal production,2014,"Kilowatt-hours, million",33.52,,thermal_electricity
-CÇïte d'Ivoire,Electricity - total thermal production,2014,"Kilowatt-hours, million",6373,,thermal_electricity
 Cabo Verde,Electricity - total solar production,2014,"Kilowatt-hours, million",5.02,,solar_electricity
 Cabo Verde,Electricity - total thermal production,2014,"Kilowatt-hours, million",338.12,,thermal_electricity
 Cambodia,Electricity - total hydro production,2014,"Kilowatt-hours, million",1852,,hydro
@@ -86,8 +85,9 @@ Canada,Electricity - total nuclear production,2014,"Kilowatt-hours, million",107
 Canada,Electricity - total solar production,2014,"Kilowatt-hours, million",1756,,solar_electricity
 Canada,Electricity - total thermal production,2014,"Kilowatt-hours, million",139402,,thermal_electricity
 Canada,"Electricity - total tide, wave production",2014,"Kilowatt-hours, million",16,,tide_wave_and_ocean_electricity
-Cate d'Ivoire,Electricity - total hydro production,2014,"Kilowatt-hours, million",1913,,hydro
+Cate dIvoire,Electricity - total hydro production,2014,"Kilowatt-hours, million",1913,,hydro
 Cayman Islands,Electricity - total thermal production,2014,"Kilowatt-hours, million",620.74,,thermal_electricity
+Cate dIvoire,Electricity - total thermal production,2014,"Kilowatt-hours, million",6373,,thermal_electricity
 Central African Rep.,Electricity - total hydro production,2014,"Kilowatt-hours, million",157,1,hydro
 Central African Rep.,Electricity - total thermal production,2014,"Kilowatt-hours, million",26,1,thermal_electricity
 Chad,Electricity - total thermal production,2014,"Kilowatt-hours, million",225,1,thermal_electricity
@@ -393,9 +393,9 @@ Puerto Rico,Electricity - total hydro production,2014,"Kilowatt-hours, million",
 Puerto Rico,Electricity - total solar production,2014,"Kilowatt-hours, million",47.5,,solar_electricity
 Puerto Rico,Electricity - total thermal production,2014,"Kilowatt-hours, million",20969.2,,thermal_electricity
 Qatar,Electricity - total thermal production,2014,"Kilowatt-hours, million",38692,,thermal_electricity
-RÇ¸union,Electricity - total hydro production,2014,"Kilowatt-hours, million",425.8,,hydro
-RÇ¸union,Electricity - total solar production,2014,"Kilowatt-hours, million",235.9,,solar_electricity
-RÇ¸union,Electricity - total thermal production,2014,"Kilowatt-hours, million",2179.8,,thermal_electricity
+R€÷union,Electricity - total hydro production,2014,"Kilowatt-hours, million",425.8,,hydro
+R€÷union,Electricity - total solar production,2014,"Kilowatt-hours, million",235.9,,solar_electricity
+R€÷union,Electricity - total thermal production,2014,"Kilowatt-hours, million",2179.8,,thermal_electricity
 Republic of Moldova,Electricity - total hydro production,2014,"Kilowatt-hours, million",59,,hydro
 Republic of Moldova,Electricity - total solar production,2014,"Kilowatt-hours, million",1,,solar_electricity
 Republic of Moldova,Electricity - total thermal production,2014,"Kilowatt-hours, million",902,,thermal_electricity
