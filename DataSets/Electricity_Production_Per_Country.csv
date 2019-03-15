@@ -1,5 +1,5 @@
 country_or_area,commodity_transaction,year,unit,quantity,quantity_footnotes,category
-Afghanistan,Electricity - total hydro production,2014,"Kilowatt-hours, million",895.3,1,hydro
+Afghanistan,Electricity - total hydro production,2014,"Kilowatt-hours, million",895.3,,hydro
 Afghanistan,Electricity - total thermal production,2014,"Kilowatt-hours, million",154,1,thermal_electricity
 Albania,Electricity - total hydro production,2014,"Kilowatt-hours, million",4724.43,,hydro
 Algeria,Electricity - total hydro production,2014,"Kilowatt-hours, million",254,,hydro
